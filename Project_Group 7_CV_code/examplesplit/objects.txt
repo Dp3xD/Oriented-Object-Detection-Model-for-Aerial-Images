@@ -1,0 +1,11 @@
+pedestrian:0
+Car:24
+van:0
+bus:0
+tricycle:0
+bicycle:0
+truck:0
+people:0
+motor:22
+awning_tricycle:4
+Total:50

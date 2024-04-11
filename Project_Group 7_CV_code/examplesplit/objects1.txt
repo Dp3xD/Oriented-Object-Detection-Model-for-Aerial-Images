@@ -1,0 +1,8 @@
+pedestrian:14666
+Car:143002
+heavy_vehicle:5827
+wheeler3:17244
+bicycle:11036
+wheeler2:145727
+people:275
+Total:337777

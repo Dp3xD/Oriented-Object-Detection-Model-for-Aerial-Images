@@ -1,0 +1,14 @@
+
+frames with 0 objects:1
+
+frames with 1-5 objects:238
+
+frames with 6-10 objects:5262
+
+frames with 11-15 objects:15101
+
+frames with 16-20 objects:4981
+
+frames with 21-25 objects:362
+
+frames with 26-30 objects:0
